@@ -1,0 +1,5 @@
+---
+deployment:
+    tasks:
+        - export DEPLOYPATH=/home/edgarmon/devfreely.com
+        - /bin/rsync -r _site/ $DEPLOYPATH
