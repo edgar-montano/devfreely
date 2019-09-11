@@ -1,6 +1,6 @@
 # Site
-name: "Engineer Edgar"
-description: "I break, make, and fix stuff... Usually in that order. "
+name: "DevFreely"
+description: "Learn to develop software, applications, games, websites, and more... freely."
 logo: "assets/images/logo.png"
 favicon: "assets/images/favicon.ico"
 baseurl: ""
